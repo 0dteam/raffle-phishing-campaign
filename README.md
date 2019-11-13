@@ -5,6 +5,8 @@ I wanted to do a multiple stage phishing campaing, but I didn't find any solutio
 1) Visual Studio
 2) You need to own another domain to upload the phishing website on (I suggest short domains). Let's assume it is "0d.ae"
 
+![alt text](https://github.com/0dteam/raffle-phishing-campaign/raw/master/diagram.png)
+
 # Preparation:
 1) Create a new database and database user and link them together on your phishing domain control panel (cPanel->MySQL Databases)
 2) Use cPanel->phpMyAdmin to access the new database and import phishping table (Database\phishping.sql)
