@@ -1,0 +1,14 @@
+C:\Users\Ali\Downloads\RAFFLEPHISH\Exe\bin\Release\YOURCOMPANYNAME-Raffle.exe.config
+C:\Users\Ali\Downloads\RAFFLEPHISH\Exe\bin\Release\YOURCOMPANYNAME-Raffle.exe
+C:\Users\Ali\Downloads\RAFFLEPHISH\Exe\bin\Release\YOURCOMPANYNAME-Raffle.pdb
+C:\Users\Ali\Downloads\RAFFLEPHISH\Exe\obj\Release\MainWindow.g.cs
+C:\Users\Ali\Downloads\RAFFLEPHISH\Exe\obj\Release\App.g.cs
+C:\Users\Ali\Downloads\RAFFLEPHISH\Exe\obj\Release\YOURCOMPANYNAME-Raffle_MarkupCompile.cache
+C:\Users\Ali\Downloads\RAFFLEPHISH\Exe\obj\Release\YOURCOMPANYNAME-Raffle_MarkupCompile.lref
+C:\Users\Ali\Downloads\RAFFLEPHISH\Exe\obj\Release\MainWindow.baml
+C:\Users\Ali\Downloads\RAFFLEPHISH\Exe\obj\Release\YOURCOMPANYNAME-Raffle.g.resources
+C:\Users\Ali\Downloads\RAFFLEPHISH\Exe\obj\Release\PhishTest.Properties.Resources.resources
+C:\Users\Ali\Downloads\RAFFLEPHISH\Exe\obj\Release\PhishTest.csproj.GenerateResource.cache
+C:\Users\Ali\Downloads\RAFFLEPHISH\Exe\obj\Release\PhishTest.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Downloads\RAFFLEPHISH\Exe\obj\Release\YOURCOMPANYNAME-Raffle.exe
+C:\Users\Ali\Downloads\RAFFLEPHISH\Exe\obj\Release\YOURCOMPANYNAME-Raffle.pdb
